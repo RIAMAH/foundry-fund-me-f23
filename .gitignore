@@ -19,5 +19,8 @@ docs/
 .env.*
 !.env.example
 
+broadcast/
+lib/
+
 .DS_Store
 zkout/
